@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Why I'm Doing This "Blogging Thing"
-Date: 2013-09-03
+title: Why I'm Doing This "Blogging Thing"
+tate: 2013-09-03
 Slug: Why-I-Blog
 ---
 Blogs were cool, hip and new... *years* ago. Now they are kind of *passé*, right? Well, that might be true but I am not writing this blog to be cool or hip.
