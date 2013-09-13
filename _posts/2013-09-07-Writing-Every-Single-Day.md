@@ -12,6 +12,8 @@ I was motivated to do this after reading this in Seth Godin's book [*The Icarus 
 > Do it every day. Every single day. Not a diary, not fiction, but analysis. Clear, crisp, honest writing about what you see in the world. Or want to see. Or teach (in writing). Tell us how to do something.
 >
 >If you know you have to write *something* every single day, even a paragraph, you will improve your writing. 
+>
+> — Seth Godin
 
 Because I will be writing a post *every single day* from now on the posts will be quite short. That also means that they also won't be as in-depth but they will also be easier to *digest*. 
 
