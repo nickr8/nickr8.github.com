@@ -108,3 +108,9 @@ hr {margin: 3em 2em 3em 2em;}
 
 .date {color: #A5ABAB;font-style:italic;}
 .homedate {font-style: italic;}
+
+
+@media (max-width: 800px) { 
+h1{padding: 0 0;margin: 0.3em 0 0.3em;}
+.container{padding: 0 1em;}
+}
