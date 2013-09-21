@@ -11,6 +11,6 @@ Sweet! I tried to see who was sitting inside of the beautiful car but it was alr
 
 This is what I always do when I see a supercar: Look who's driving it. Mostly it is some old dude with grey hair. But once in a while you see a young dude. I want to be that dude. 
 
-It's not like having a supercar will make anyone happy on its own but it definately shows that the person has had financial success to some degree...
+It's not like having a supercar will make anyone happy on its own but it definitely shows that the person has had financial success to some degree...
 
 ... and it is just plain *cool* driving one.
