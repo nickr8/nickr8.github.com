@@ -1,5 +1,5 @@
 ---
-title: Writing Every Day: Update
+Title: Writing Every Day Update
 date: 2013-10-07
 layout: post
 ---
